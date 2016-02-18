@@ -68,7 +68,7 @@ and express to make it go,
 
 Loop machine built with MEAN,
 
-minus mongo makes it EAN.
+minus mongo makes it EAN?
 
 angular to keep it CLEAN,
 
