@@ -67,7 +67,7 @@ Mocking sockets made it tough to relax,
 not to mention Javascript- with callbacks on backs on backs on backs.
 
 
-SWITCH
+### SWITCH
 
 
 It’s been 12 weeks at this school and it’s been pretty cool,
