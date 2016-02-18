@@ -47,7 +47,7 @@ that were used to build this app from a baby to a man, ******
 user stories mixed with waffle gave direction and a plan.
 
 
-web sockets were used for real time interaction,
+web SOCKETS were used for real time interaction,
 
 we linked it up with tone JS to make the music happen,
 
