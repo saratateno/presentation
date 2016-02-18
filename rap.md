@@ -64,7 +64,7 @@ tested so it won’t explode,
 css to make it flow,
 
 and express to make it go,
-
+(slight pause)
 
 Loop machine built with MEAN,
 
