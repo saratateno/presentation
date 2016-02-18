@@ -57,7 +57,7 @@ some modulation mapping of the beats to get em snappin,
 but keep in mind that makes up just a little bitty fraction,
 
 
-cause it’s made with node,
+made with node,
 
 tested so it won’t explode,
 
