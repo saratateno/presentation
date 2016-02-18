@@ -80,7 +80,7 @@ from red to green and finally refactor.
 
 You can jam by yourself or with your homies if you like,
 
-speaking of which-  it’s time to pass the mic.
+(pause) speaking of which it’s time to pass off the mic.
 
 ### SWITCH
 
