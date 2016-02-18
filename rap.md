@@ -1,5 +1,5 @@
 ### STILL NEED TO ADD LINES ABOUT DELETE, MUTE, and VISUALIZATIONS
-
+### CHARLIE START
 
 Hello everybody thanks for coming to the show,
 
@@ -16,7 +16,7 @@ We got Angus, Sara, Charlie and Daniela
 and we all got a story that we can’t wait to tellya
 
 
-Once upon a time we wanted to make our own beats,
+It started when we wanted to make our own beats,
 
 but we needed something that would play em back on repeat.
 
@@ -35,7 +35,9 @@ You can jam with your friends over here or over there,
 
 yo angus that reminds me, can I get a little snare.
 
+### CHARLIE END
 ### INSTRUMENTAL BREAK (snare is added) - SWITCH
+### ANGUS START
 
 Relax- and listen, no need to beg me please,
 
@@ -54,10 +56,13 @@ we linked it up with tone JS to make the music happen,
 
 some modulation mapping of the beats to get em snappin,
 
-but keep in mind that makes up just a little bitty fraction,
+but keep in mind that makes up just a itty bitty fraction,
 
 
-made with node,
+### ANGUS END
+### DANIELA START
+
+MADE WITH NODE,
 
 tested so it won’t explode,
 
@@ -74,15 +79,16 @@ angular to keep it CLEAN,
 
 with a workflow that is LEAN,
 
-Our testing game strong with jasmine, karma, and protractor,
+Our testing game is strong with jasmine karma and protractor,
 
-from red to green and finally refactor.
+from red, to green, and finally refactor.
 
 You can jam by yourself or with your homies if you like,
 
-(pause) speaking of which it’s time to pass off the mic.
+(pause) speaking ooof which it’s time to pass off the mic.
 
-### SWITCH
+### DANIELA END
+### SARA START
 
 Real time live sessions for max collaboration,
 
@@ -104,7 +110,8 @@ Mocking sockets made it tough to relax,
 not to mention Javascript- with callbacks on backs on backs on backs.
 
 
-### SWITCH
+### SARA END
+### CHARLIE START
 
 
 It’s been 12 weeks at this school and it’s been pretty cool,
