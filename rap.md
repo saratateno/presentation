@@ -21,7 +21,7 @@ It started when we wanted to make our own beats,
 but we needed something that would play em back on repeat.
 
 
-now the makers final project only lasts two weeks
+Now the makers final project only lasts two weeks
 
 so we put our heads together and the concept’s pretty sweet,
 
@@ -29,6 +29,11 @@ so we put our heads together and the concept’s pretty sweet,
 I can go to the site and fire up a brand new loop,
 
 meet my buddies online so we can jam in a group.
+
+
+Real time live sessions for max collaboration,
+
+chat bar on the right so you can start a conversation.
 
 
 You can jam with your friends over here or over there,
@@ -79,36 +84,23 @@ angular to keep it CLEAN,
 
 with a workflow that is LEAN,
 
+### DANIELA END
+### SARA START
+
 Our testing game is strong with jasmine karma and protractor,
 
 from red, to green, and finally refactor.
 
-You can jam by yourself or with your homies if you like,
 
-(pause) speaking ooof which it’s time to pass off the mic.
+I’d be lying to you if I said there was no struggle,
 
-### DANIELA END
-### SARA START
-
-Real time live sessions for max collaboration,
-
-chat bar on the right so you can start a conversation.
+Mocking sockets on two browsers, it was really a juggle.
 
 
-I’d be lying if I told you that we didn’t face some struggle,
+Testing sounds on the page - content that you cannot see,
 
-Angular JS turned out to be a juggle.
-
-
-Testing sounds on the page- content that you cannot see,
-
-yet coaches tell me- we must keep to TDD.
-
-
-Mocking sockets made it tough to relax,
-
-not to mention Javascript- with callbacks on backs on backs on backs.
-
+yet coaches keep on yellin' - we must keep to TDD.
+ 
 
 ### SARA END
 ### CHARLIE START
@@ -116,10 +108,10 @@ not to mention Javascript- with callbacks on backs on backs on backs.
 
 It’s been 12 weeks at this school and it’s been pretty cool,
 
-and if I don’t stop and say thank you than I’d feel like a fool,
+and if I don’t stop and say thank you then I’d feel like a fool,
 
 
-so thank you all- for coming- to see our presentation,
+so thank you all - for coming- to see our presentation,
 
 it wouldn’t be enough to say we feel appreciation.
 
@@ -129,7 +121,7 @@ thank you coaches for your guidance to make our fancy apps
 And thank you petticoat lane for the katsu wraps.
 
 
-thank you all alumni helpers at the desk your the shit,
+thank you all alumni helpers at the desk you're the shit,
 
 always got my back to check out my latest commit.
 
@@ -139,7 +131,7 @@ Finally, we can’t express the love we have for our cohort,
 trial error and success, with tons of support.
 
 
-It’s maker’s graduation- and we’re proud to say we made it.
+It’s maker’s graduation - and we’re proud to say we made it.
 
 and it’s safe to say that we deserve to go get really faded.
 
