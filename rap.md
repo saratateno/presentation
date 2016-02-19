@@ -99,7 +99,7 @@ Mocking sockets on two browsers, it was really a juggle.
 
 Testing sounds on the page - content that you cannot see,
 
-yet coaches keep on yellin' - we must keep to TDD.
+yet coaches keep on yellin' - please stick with TDD.
  
 
 ### SARA END
