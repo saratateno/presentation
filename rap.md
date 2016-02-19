@@ -92,9 +92,9 @@ Our testing game is strong with jasmine karma and protractor,
 from red, to green, and finally refactor.
 
 
-I’d be lying to you if I said there was no struggle,
+I’d be lying if I said that there was no struggle,
 
-Mocking sockets on two browsers, it was really a juggle.
+Mocking sockets on two browsers, it really was a juggle.
 
 
 Testing sounds on the page - content that you cannot see,
